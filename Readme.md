@@ -2,6 +2,8 @@
 
 An automated, end-to-end data engineering and sentiment analysis pipeline that ingests live market and global economic news from Finnhub.io, processes text sentiment using VADER NLP, manages incremental data persistence in an Excel Master Store on Google Drive, and serves interactive analytics via Power BI.
 
+(Note: If you do not have Power BI Desktop installed, please refer to high-resolution interactive screenshots of reporting canvases directly in your browser.)
+
 🔗 Quick Links
 
 📊 Live Power BI Dashboard: Interactive Financial News Analytics Dashboard
